@@ -53,8 +53,8 @@ import moment from 'moment-timezone'
 /*============== SOCIAL ==============*/
 
 // kalo ga punya biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/Xiao_yan_21' //Link Instagrammu
-global.sgh = 'https://github.com/ImYanXiao' //Link Githubmu
+global.sig = 'https://github.com/PhoenixFury0000' //Link Instagrammu
+global.sgh = 'https://github.com/PhoenixFury0000' //Link Githubmu
 global.sgc = 'https://chat.whatsapp.com/DyBMXDw1IshFM9z0ZHZNlR'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/' //Hmmm, Ini boleh kalian isi terserah :v
@@ -65,16 +65,16 @@ global.ppulsa = '-' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '-' //Nomor Bot
-global.nomorown = '-' //Nomor Owner
+global.nomorbot = '2347026396106' //Nomor Bot
+global.nomorown = '𝚸𝚮𝚯𝚵𝚴𝚰𝚾' //Nomor Owner
 global.namebot = 'Elaina BOT' //Nama Bot
-global.nameown = '-' // Nama Owner
+global.nameown = '917973456275' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
   ['-', 'Developer Owner', true] //Ganti jd nomormu sama Namamu
-  // [number, dia creator/owner?, dia developer?] ex= [62123456789, "siapa kek", false]
+  // [number, dia creator/owner?, dia developer?] ex= [917973456275, "siapa kek", false]
 ] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
