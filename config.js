@@ -55,14 +55,14 @@ import moment from 'moment-timezone'
 // kalo ga punya biarin aja biar ada creditsnya :v
 global.sig = 'https://github.com/PhoenixFury0000' //Link Instagrammu
 global.sgh = 'https://github.com/PhoenixFury0000' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/DyBMXDw1IshFM9z0ZHZNlR'
+global.sgc = 'https://chat.whatsapp.com/2347026396106'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
 global.pdana = '-' //Nomor Danamu
 global.ppulsa = '-' //Nomor SimCard Yang Kamu Pake
-global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
+global.psaweria = 'https://github.com/PhoenixFury0000' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
 global.nomorbot = '2347026396106' //Nomor Bot
