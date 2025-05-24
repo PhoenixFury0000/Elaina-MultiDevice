@@ -66,9 +66,9 @@ global.psaweria = 'https://github.com/PhoenixFury0000' //Link Saweriamu Kalo Ngg
 
 /*============== NOMOR ==============*/
 global.nomorbot = '2347026396106' //Nomor Bot
-global.nomorown = '𝚸𝚮𝚯𝚵𝚴𝚰𝚾' //Nomor Owner
+global.nomorown = '917973456275' //Nomor Owner
 global.namebot = 'Elaina BOT' //Nama Bot
-global.nameown = '917973456275' // Nama Owner
+global.nameown = '𝚸𝚮𝚯𝚵𝚴𝚰𝚾' // Nama Owner
 
 
 /*============== STAFF ==============*/
